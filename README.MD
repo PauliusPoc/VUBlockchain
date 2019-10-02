@@ -53,4 +53,7 @@ Funkcijos veikimo laikas hash'uojant kiekvieną eilutę iš `konstitucija.txt` f
 
 | Failas | Simbolių eilučių porų skaičius | Rezultatas Bits Lygmuo |  Rezultatas Char Lygmuo |
 | ------ |:------------------------------:|:----------:|:----------:|
-| string-pairs-2.txt | 100 000 | Avg Diff % 47.201<br>Max Diff % 63.2812<br>Min Diff % 37.5 | Avg Diff % 91.9215<br>Max Diff % 100<br>Min Diff % 78.125 |
+| test100k-pairs-diff.txt | 100 000 | Avg Diff % 47.201<br>Max Diff % 63.2812<br>Min Diff % 37.5 | Avg Diff % 91.9215<br>Max Diff % 100<br>Min Diff % 78.125 |
+
+
+Failas `test1m-pairs.txt` su 1 milijonu eilučių neturi sutapusių išvesties rezultatų.
